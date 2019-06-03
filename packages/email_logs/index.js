@@ -1,3 +1,3 @@
 #!/usr/bin/env node
-var a  = require('lib/liba')
+var a  = require('lib/liba/module.js')
 console.log('main run ', a)
