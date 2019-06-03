@@ -10,7 +10,7 @@
 	"author": "",
 	"license": "ISC",
 	"dependencies": {
-		"docker-logentries": "0.3.1",
-		"lib": "^3.0.0"
+		"lib": "^3.0.0",
+"stompit": "0.26.0"
 	}
 }
