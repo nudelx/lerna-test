@@ -1,6 +1,6 @@
 {
 	"name": "login_history",
-	"version": "3.0.0",
+	"version": "4.0.0",
 	"description": "",
 	"main": "index.js",
 	"scripts": {
@@ -10,7 +10,7 @@
 	"author": "",
 	"license": "ISC",
 	"dependencies": {
-		"lib": "^3.0.0",
-"stompit": "0.26.0"
+		"lib": "^4.0.0",
+		"stompit": "0.26.0"
 	}
 }
