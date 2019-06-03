@@ -1,6 +1,6 @@
 {
 	"name": "login_history",
-	"version": "1.0.0",
+	"version": "2.0.0",
 	"description": "",
 	"main": "index.js",
 	"scripts": {
@@ -11,6 +11,6 @@
 	"license": "ISC",
 	"dependencies": {
 		"docker-logentries": "0.3.1",
-		"lib": "^1.0.0"
+		"lib": "^2.0.0"
 	}
 }
